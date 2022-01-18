@@ -1,5 +1,3 @@
-# webscrapping
- ### OLÁ MENINAS
 # SpaceX missions analysis
 
 This is the second project made for Ironhack Bootcamp in order to put into practice skills we learned as webscrapping / APIs, cleaning the data gathered, uploading it to SQL and preparing it's visualization in Tableau.
